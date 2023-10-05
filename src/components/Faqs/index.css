@@ -1,0 +1,27 @@
+.bg {
+  display: flex;
+  background-color: #f1f5f8;
+  border: 2px solid #d7dae6;
+  min-height: 100vh;
+  justify-content: center;
+}
+
+.bg1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 90%;
+  background-color: #ffffff;
+  border: 2px solid #e4e7eb;
+  border-radius: 16px;
+}
+
+.h1 {
+  color: #cb8805;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 42px;
+  margin-top: 50px;
+}
